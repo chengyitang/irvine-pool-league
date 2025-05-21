@@ -1,4 +1,4 @@
-# irvine-pool-league
+# irvine-pool-league 🎱
 
 | Player | Win | Lose |
 |-----|-----|-----|
@@ -6,7 +6,7 @@
 | Thomas | 1 | 0 |
 | Roger | 1 | 3 |
 | Kyle | 0 | 3 |
-| 👑 Jaylon | 3 | 0 |
+| Jaylon👑 | 3 | 0 |
 | Jerry | 1 | 1 |
 
 | Date | Match Up | Winner |
