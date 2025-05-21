@@ -4,10 +4,10 @@
 |-----|-----|-----|
 | Raymond | 2 | 1 |
 | Thomas | 1 | 0 |
-| Roger | 0 | 2 |
-| Kyle | 0 | 1 |
-| Jaylon | 0 | 0 |
-| Jerry | 1 | 0 |
+| Roger | 1 | 3 |
+| Kyle | 0 | 3 |
+| Jaylon | 3 | 0 |
+| Jerry | 1 | 1 |
 
 | Date | Match Up | Winner |
 |-----|-----|-----|
@@ -15,3 +15,7 @@
 |  | Raymond vs. Roger | Raymond |
 |  | Raymond vs. Kyle | Raymond |
 |  | Roger vs. Jerry | Jerry |
+|  | Jaylon vs. Roger | Jaylon |
+|  | Jaylon vs. Jerry | Jaylon |
+|  | Jaylon vs. Kyle | Jaylon |
+|  | Roger vs. Kyle | Roger |
