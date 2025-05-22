@@ -4,9 +4,9 @@
 |-----|-----|-----|
 | Raymond | 2 | 1 |
 | Thomas | 3 | 1 |
-| Roger | 2 | 4 |
-| Kyle | 0 | 4 |
-| Jaylon👑 | 3 | 0 |
+| Roger | 2 | 5 |
+| Kyle | 1 | 4 |
+| Jaylon | 3 | 0 |
 | Jerry | 1 | 1 |
 
 | Date | Match Up | Winner |
@@ -22,4 +22,4 @@
 | 5/21 | Roger vs. Thomas | Thomas |
 |  | Thomas vs. Kyle | Thomas |
 |  | Thomas vs. Roger | Roger |
-|  | Roger vs. Kyle |  |
+|  | Roger vs. Kyle | Kyle |
