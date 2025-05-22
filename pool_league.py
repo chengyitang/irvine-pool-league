@@ -213,7 +213,7 @@ class PoolLeague:
 def print_help():
     print("🎱 Pool League Management Tool")
     print("\nUsage:")
-    print("  pool Thomas > Raymond     # Add match (Thomas wins)")
+    print("  pool Thomas - Raymond     # Add match (Thomas wins)")
     print("  pool show                # Show rankings")
     print("  pool history             # Show match history")
     print("  pool stats Thomas        # Show player statistics")
@@ -248,7 +248,7 @@ def main():
     # Handle other commands
     if len(args) == 1:
         command = args[0].lower()
-        print(f"Single command received: {command}")  # Debugging print statement
+        #print(f"Single command received: {command}")  # Debugging print statement
         
         if command == 'show':
             league.show_rankings()
@@ -261,7 +261,7 @@ def main():
             print_help()
     
     elif len(args) == 2 and args[0].lower() == 'stats':
-        print(f"Stats command for player: {args[1]}")  # Debugging print statement
+        #print(f"Stats command for player: {args[1]}")  # Debugging print statement
         league.show_player_stats(args[1])
     
     else:
