@@ -3,9 +3,9 @@
 | Player | Win | Lose |
 |-----|-----|-----|
 | Raymond | 2 | 1 |
-| Thomas | 1 | 0 |
-| Roger | 1 | 3 |
-| Kyle | 0 | 3 |
+| Thomas | 3 | 1 |
+| Roger | 2 | 4 |
+| Kyle | 0 | 4 |
 | Jaylon👑 | 3 | 0 |
 | Jerry | 1 | 1 |
 
@@ -19,3 +19,7 @@
 |  | Jaylon vs. Jerry | Jaylon |
 |  | Jaylon vs. Kyle | Jaylon |
 |  | Roger vs. Kyle | Roger |
+| 5/21 | Roger vs. Thomas | Thomas |
+|  | Thomas vs. Kyle | Thomas |
+|  | Thomas vs. Roger | Roger |
+|  | Roger vs. Kyle |  |
