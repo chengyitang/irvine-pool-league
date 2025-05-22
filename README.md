@@ -22,4 +22,11 @@
 | 5/21 | Roger vs. Thomas | Thomas |
 |  | Thomas vs. Kyle | Thomas |
 |  | Thomas vs. Roger | Roger |
+| --- | --- | --- |
 |  | Roger vs. Kyle | Kyle |
+|  | Raymond vs. Kyle | Kyle |
+|  | Thomas vs. Kyle | Thomas |
+|  | Thomas vs. Roger | Thomas |
+|  | Thomas vs. Raymond | Thomas |
+|  | Thomas vs. Kyle | Thomas |
+|  | Thomas vs. Roger | Thomas |
