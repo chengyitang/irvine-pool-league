@@ -33,3 +33,10 @@
 |  | Raymond vs. Kyle | Raymond |
 |  | Raymond vs. Roger | Roger |
 |  | Raymond vs. Kyle | Raymond |
+|  | Thomas vs. Kyle | Kyle |
+|  | Roger vs. Kyle | Kyle |
+|  | Thomas vs. Kyle | Kyle |
+|  | Roger vs. Kyle | Kyle |
+|  | Thomas vs. Kyle | Thomas |
+|  | Thomas vs. Roger | Thomas |
+|  | Thomas vs. Kyle | Kyle |
