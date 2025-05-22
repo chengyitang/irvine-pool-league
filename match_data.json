@@ -1,0 +1,170 @@
+{
+  "matches": [
+    {
+      "date": "2025-05-20",
+      "winner": "Raymond",
+      "loser": "Roger"
+    },
+    {
+      "date": "2025-05-20T00:00:00",
+      "winner": "Raymond",
+      "loser": "Kyle"
+    },
+    {
+      "date": "2025-05-20T00:00:00",
+      "winner": "Thomas",
+      "loser": "Raymond"
+    },
+    {
+      "date": "2025-05-20T00:00:00",
+      "winner": "Jerry",
+      "loser": "Roger"
+    },
+    {
+      "date": "2025-05-20T00:00:00",
+      "winner": "Jaylon",
+      "loser": "Roger"
+    },
+    {
+      "date": "2025-05-20T00:00:00",
+      "winner": "Jaylon",
+      "loser": "Jerry"
+    },
+    {
+      "date": "2025-05-20T00:00:00",
+      "winner": "Jaylon",
+      "loser": "Kyle"
+    },
+    {
+      "date": "2025-05-20T00:00:00",
+      "winner": "Roger",
+      "loser": "Kyle"
+    },
+    {
+      "date": "2025-05-22T01:38:01.567416",
+      "winner": "Thomas",
+      "loser": "Roger"
+    },
+    {
+      "date": "2025-05-22T01:38:10.675385",
+      "winner": "Thomas",
+      "loser": "Kyle"
+    },
+    {
+      "date": "2025-05-22T01:38:29.971730",
+      "winner": "Roger",
+      "loser": "Thomas"
+    },
+    {
+      "date": "2025-05-22T01:38:41.286291",
+      "winner": "Kyle",
+      "loser": "Roger"
+    },
+    {
+      "date": "2025-05-22T01:40:59.633566",
+      "winner": "Kyle",
+      "loser": "Raymond"
+    },
+    {
+      "date": "2025-05-22T01:41:16.341279",
+      "winner": "Thomas",
+      "loser": "Kyle"
+    },
+    {
+      "date": "2025-05-22T01:41:22.994580",
+      "winner": "Thomas",
+      "loser": "Roger"
+    },
+    {
+      "date": "2025-05-22T01:41:35.222187",
+      "winner": "Thomas",
+      "loser": "Raymond"
+    },
+    {
+      "date": "2025-05-22T01:41:49.045494",
+      "winner": "Thomas",
+      "loser": "Kyle"
+    },
+    {
+      "date": "2025-05-22T01:41:52.419417",
+      "winner": "Thomas",
+      "loser": "Roger"
+    },
+    {
+      "date": "2025-05-22T01:42:09.444581",
+      "winner": "Raymond",
+      "loser": "Kyle"
+    },
+    {
+      "date": "2025-05-22T01:42:22.822535",
+      "winner": "Roger",
+      "loser": "Raymond"
+    },
+    {
+      "date": "2025-05-22T01:42:40.853815",
+      "winner": "Raymond",
+      "loser": "Kyle"
+    },
+    {
+      "date": "2025-05-22T01:43:21.325967",
+      "winner": "Kyle",
+      "loser": "Thomas"
+    },
+    {
+      "date": "2025-05-22T01:43:25.223411",
+      "winner": "Kyle",
+      "loser": "Thomas"
+    },
+    {
+      "date": "2025-05-22T01:43:29.169773",
+      "winner": "Kyle",
+      "loser": "Roger"
+    },
+    {
+      "date": "2025-05-22T01:43:30.160730",
+      "winner": "Kyle",
+      "loser": "Roger"
+    },
+    {
+      "date": "2025-05-22T01:43:49.991866",
+      "winner": "Thomas",
+      "loser": "Kyle"
+    },
+    {
+      "date": "2025-05-22T01:43:54.312254",
+      "winner": "Thomas",
+      "loser": "Roger"
+    },
+    {
+      "date": "2025-05-22T01:44:08.905354",
+      "winner": "Kyle",
+      "loser": "Thomas"
+    }
+  ],
+  "players": {
+    "Raymond": {
+      "wins": 4,
+      "losses": 4
+    },
+    "Roger": {
+      "wins": 3,
+      "losses": 10
+    },
+    "Kyle": {
+      "wins": 7,
+      "losses": 9
+    },
+    "Thomas": {
+      "wins": 10,
+      "losses": 4
+    },
+    "Jerry": {
+      "wins": 1,
+      "losses": 1
+    },
+    "Jaylon": {
+      "wins": 3,
+      "losses": 0
+    }
+  }
+}

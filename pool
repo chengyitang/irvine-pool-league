@@ -1,0 +1,2 @@
+#!/bin/bash
+python3 pool_league.py "$@"
